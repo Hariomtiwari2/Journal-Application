@@ -1,0 +1,31 @@
+#spring:
+#  profiles:
+#    active: dev
+#
+#
+##logging:
+##  level:
+##    com:
+##      HariomProject:
+##        journalApp: Debug
+#
+##
+##spring:
+##  data:
+##    mongodb:
+##      uri: mongodb+srv://anuj2620003:0SBamU0L7myH60pJ@cluster0.le34v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+##      database: journaldb
+##      auto-index-creation: true
+##
+##
+##
+##
+##  main:
+##    allow-circular-references: true
+##server:
+##  port: 8080
+##  servlet:
+##    context-path:
+#
+#
+#
