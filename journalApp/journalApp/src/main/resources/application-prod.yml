@@ -4,7 +4,7 @@
 #spring:
 #  data:
 #    mongodb:
-#      uri: mongodb+srv://anuj2620003:0SBamU0L7myH60pJ@cluster0.le34v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+#      uri: mongodb+srv://
 #      database: journaldb
 #      auto-index-creation: true
 #
